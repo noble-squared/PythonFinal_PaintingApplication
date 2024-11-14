@@ -1,6 +1,6 @@
 # Off-brand Painting Application
 
-This was our final project for our Computer Science I class, Python Programming. It was a collaborative effort between Adara Noble ([@noble-squared](https://github.com/noble-squared)) and Tristan ([@n0din](https://github.com/n0din)), and was completed in Fall of 2024.             
+This was our final project for our Computer Science I class, Python Programming. It was a collaborative effort between Adara Noble ([@noble-squared](https://github.com/noble-squared)) and Tristan ([@n0din](https://github.com/n0din)), and was completed in Fall of 2023.             
 
 ## Description
 
